@@ -13,3 +13,4 @@ gradio==4.16.0
 spaces==0.22.0
 fastapi
 uvicorn
+gunicorn
