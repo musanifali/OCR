@@ -11,3 +11,5 @@ opencv-contrib-python==4.9.0.80
 ultralytics==8.1.8
 gradio==4.16.0
 spaces==0.22.0
+fastapi
+uvicorn
